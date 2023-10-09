@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GuesstheNumber" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryVariant">#DA4167</item>
+<!--        change text color to white -->
+        <item name="android:textColor">#ffff</item>
+<!--        change button textcolor to transperent-->
+<!--        background color -->
+        <item name="android:colorBackground">#0a192f</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.GuesstheNumber" parent="Base.Theme.GuesstheNumber" />
+</resources>
